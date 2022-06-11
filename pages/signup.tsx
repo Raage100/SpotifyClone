@@ -6,4 +6,5 @@ const Signup = () => {
 
 Signup.authPage = true
 
-export default Signup
+export default Signup;
+ 
