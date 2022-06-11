@@ -38,4 +38,4 @@ const GradientLayout = ({
   )
 }
 
-export default GradientLayout   
+export default GradientLayout
